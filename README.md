@@ -1,4 +1,4 @@
-# EN-Transformer
+# NE-Transformer
 
 This is the implementation of paper at ****-2021.
 
